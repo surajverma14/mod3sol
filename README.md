@@ -1,1 +1,1 @@
-# https://github.com/surajverma14/mod3sol
+# https://surajverma14.github.io/mod3sol/
